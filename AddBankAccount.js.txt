@@ -1,0 +1,8 @@
+class AddBankAccount {
+	const accountNumber;
+	const accountHolderName;
+	const balance;
+	const deposit = (amount)=>{};
+	const withdraw = (amount)=>{};
+	const checkBalance = ()=>{};
+}
