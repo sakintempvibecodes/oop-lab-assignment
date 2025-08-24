@@ -5,4 +5,5 @@ class AddBankAccount {
 	const deposit = (amount)=>{};
 	const withdraw = (amount)=>{};
 	const checkBalance = ()=>{};
+	const calculateInterest = (rate)=>{};
 }
